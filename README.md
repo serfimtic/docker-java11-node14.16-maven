@@ -1,1 +1,0 @@
-# docker-java11-node14.16-maven
